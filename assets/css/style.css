@@ -113,6 +113,13 @@ body {
     height: 250px;
     object-fit: contain;
 }
+
+#clip3 {
+    width: 400px;
+    height: 250px;
+    object-fit: contain;
+}
+
 #slot1 h5{
     padding: 0 0 0 10px;
     margin: 0;
@@ -121,13 +128,22 @@ body {
     border-width: 2px;
 }
 
-#slot2 {
+#slot2 h5 {
     padding: 0 0 0 10px;
     margin: 0;
     font-size: larger;
     border: block;
     border-width: 2px;
 }
+
+#slot3 h5 {
+    padding: 0 0 0 10px;
+    margin: 0;
+    font-size: larger;
+    border: block;
+    border-width: 2px;
+}
+
 
 #heroImg {
     float: right;
