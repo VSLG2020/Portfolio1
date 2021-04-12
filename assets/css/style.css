@@ -120,6 +120,12 @@ body {
     object-fit: contain;
 }
 
+#clip4 {
+    width: 400px;
+    height: 250px;
+    object-fit: contain;
+}
+
 #slot1 h5{
     padding: 0 0 0 10px;
     margin: 0;
@@ -144,6 +150,13 @@ body {
     border-width: 2px;
 }
 
+#slot4 h5 {
+    padding: 0 0 0 10px;
+    margin: 0;
+    font-size: larger;
+    border: block;
+    border-width: 2px;
+}
 
 #heroImg {
     float: right;
